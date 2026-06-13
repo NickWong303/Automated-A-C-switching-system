@@ -7,3 +7,8 @@ This is very easy. First of all, make sure your computer can run Python locally 
 After running the program, it will call and open a new Chrome webpage and redirect to the [A/C control system](https://w5.ab.ust.hk/njggt/app/home). The only thing you have to do is fill in your account email and password to get into the A/C controller. After that, press 'Enter' in your shell terminal, and you're done.
 
 The default times for turning on and turning off are 30 minutes each. You can adjust them through the two variables ```ON_TIME``` and ```OFF_TIME```.
+
+# Change Log
+2026-06-13: 
+ > `AntoAC.py` can now show the time of execution (based on system time) and number of loops
+ > Fixed some known bugs
