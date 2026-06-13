@@ -10,5 +10,5 @@ The default times for turning on and turning off are 30 minutes each. You can ad
 
 # Change Log
 2026-06-13: 
- > `AntoAC.py` can now show the time of execution (based on system time) and number of loops
- > Fixed some known bugs
+ - `AntoAC.py` can now show the time of execution (based on system time) and number of loops
+ - Fixed some known bugs
